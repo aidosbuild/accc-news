@@ -1,10 +1,29 @@
 {
-  "generatedAt": "2026-10-09T02:54:08.796Z",
-  "lastCheckedAt": "2026-10-12T17:11:57.239Z",
+  "generatedAt": "2026-10-13T03:28:28.801Z",
+  "lastCheckedAt": "2026-10-13T03:28:28.801Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 833,
+  "recordCount": 834,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/accc-alleges-major-australian-egg-producers-engaged-in-cartel-and-other-anti-competitive-conduct",
+      "title": "ACCC alleges major Australian egg producers engaged in cartel and other anti-competitive conduct",
+      "category": "Compliance and Enforcement, Competition and Exemptions, Agriculture, Food and Groceries",
+      "categories": [
+        "Compliance and Enforcement",
+        "Competition and Exemptions",
+        "Agriculture",
+        "Food and Groceries"
+      ],
+      "summary": "Australia’s biggest egg supplier Sunny Queen and 11 other egg producers and suppliers are alleged to have breached competition laws by cooperating on production and supply of eggs in Australia, in civil proceedings filed in the Federal Court by the ACCC today.",
+      "dateISO": "2026-10-13",
+      "dateText": "13 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-interim-authorisation-to-honeysuckle-health-and-nib-to-maintain-their-health-services-buying-group",
