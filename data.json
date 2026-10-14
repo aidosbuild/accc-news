@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-13T03:28:28.801Z",
-  "lastCheckedAt": "2026-10-14T01:46:23.945Z",
+  "generatedAt": "2026-10-14T06:53:12.339Z",
+  "lastCheckedAt": "2026-10-14T06:53:12.339Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 834,
+  "recordCount": 835,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-decides-to-authorise-qantas-american-airlines-aviation-alliance",
+      "title": "ACCC decides to authorise Qantas-American Airlines aviation alliance",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "The ACCC has issued a final determination granting authorisation to Qantas Airways Ltd and American Airlines Inc in respect of their aviation alliance on trans-Pacific routes.",
+      "dateISO": "2026-10-14",
+      "dateText": "14 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/accc-alleges-major-australian-egg-producers-engaged-in-cartel-and-other-anti-competitive-conduct",
