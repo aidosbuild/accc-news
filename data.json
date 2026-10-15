@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-14T06:53:12.339Z",
-  "lastCheckedAt": "2026-10-14T13:13:33.247Z",
+  "generatedAt": "2026-10-15T01:22:20.887Z",
+  "lastCheckedAt": "2026-10-15T01:22:20.887Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 835,
+  "recordCount": 837,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/accc-seeks-views-on-mobile-coverage-and-services",
+      "title": "ACCC seeks views on mobile coverage and services",
+      "category": "Buying and Selling Products and Services, Telecommunications and Internet",
+      "categories": [
+        "Buying and Selling Products and Services",
+        "Telecommunications and Internet"
+      ],
+      "summary": "The ACCC is seeking views from Australian consumers and businesses as it launches public consultation for its Mobile Services Inquiry. Consumers, businesses, community organisations and other interested parties can have their say by either completing an online consumer survey or making a submission in response to the ACCC’s discussion paper.",
+      "dateISO": "2026-10-15",
+      "dateText": "15 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/new-merger-laws-are-protecting-australia%E2%80%99s-economy",
+      "title": "New merger laws are protecting Australia’s economy",
+      "category": "Competition and Exemptions, Mergers",
+      "categories": [
+        "Competition and Exemptions",
+        "Mergers"
+      ],
+      "summary": "Australia’s new merger control regime is protecting competition in key markets while allowing low-risk acquisitions to proceed efficiently, which is necessary to help secure Australia’s economic prosperity in a period of high uncertainty.",
+      "dateISO": "2026-10-15",
+      "dateText": "15 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-decides-to-authorise-qantas-american-airlines-aviation-alliance",
