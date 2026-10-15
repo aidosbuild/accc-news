@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T01:22:20.887Z",
-  "lastCheckedAt": "2026-10-15T01:22:20.887Z",
+  "generatedAt": "2026-10-15T08:55:10.356Z",
+  "lastCheckedAt": "2026-10-15T08:55:10.356Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 837,
+  "recordCount": 838,
   "records": [
     {
       "type": "Media Release",
@@ -15,6 +15,24 @@
         "Telecommunications and Internet"
       ],
       "summary": "The ACCC is seeking views from Australian consumers and businesses as it launches public consultation for its Mobile Services Inquiry. Consumers, businesses, community organisations and other interested parties can have their say by either completing an online consumer survey or making a submission in response to the ACCC’s discussion paper.",
+      "dateISO": "2026-10-15",
+      "dateText": "15 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/kmart-in-court-over-safety-concerns-with-cosmetic-nail-glue-and-button-battery-products",
+      "title": "Kmart in court over safety concerns with cosmetic nail glue and button battery products",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Stay Protected",
+      "categories": [
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement",
+        "Stay Protected"
+      ],
+      "summary": "The ACCC has commenced Federal Court action against Kmart Australia Ltd, a subsidiary of Wesfarmers (ASX: WES), alleging it breached the Australian Consumer Law by selling millions of units of cosmetic nail glue without adequate warnings and thousands of units of button battery products which did not comply with mandatory standards.",
       "dateISO": "2026-10-15",
       "dateText": "15 October 2026",
       "year": 2026,
