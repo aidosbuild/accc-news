@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-15T08:55:10.356Z",
-  "lastCheckedAt": "2026-10-15T13:00:02.787Z",
+  "generatedAt": "2026-10-16T01:08:06.640Z",
+  "lastCheckedAt": "2026-10-16T01:08:06.640Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 838,
+  "recordCount": 839,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-issues-determination-for-7-eleven-stores-and-velocity-frequent-flyer",
+      "title": "ACCC issues determination for 7-Eleven Stores and Velocity Frequent Flyer",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "On 14 October 2026, the ACCC granted authorisation for 7-Eleven Stores Pty Ltd and its franchisees to participate in the Velocity Frequent Flyer loyalty program as a retail earn partner.",
+      "dateISO": "2026-10-15",
+      "dateText": "15 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/accc-seeks-views-on-mobile-coverage-and-services",
