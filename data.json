@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-16T01:08:06.640Z",
-  "lastCheckedAt": "2026-10-18T12:20:35.642Z",
+  "generatedAt": "2026-10-19T01:01:29.444Z",
+  "lastCheckedAt": "2026-10-19T01:01:29.444Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 839,
+  "recordCount": 840,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-reauthorises-coordination-of-maintenance-for-lng-export-facilities-at-curtis-island",
+      "title": "ACCC reauthorises coordination of maintenance for LNG export facilities at Curtis Island",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "On 16 October 2026, the ACCC released a determination to reauthorise the applicants to coordinate the timing and scheduling of maintenance events at their LNG facilities on Curtis Island.",
+      "dateISO": "2026-10-19",
+      "dateText": "19 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-issues-determination-for-7-eleven-stores-and-velocity-frequent-flyer",
