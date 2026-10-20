@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-19T01:01:29.444Z",
-  "lastCheckedAt": "2026-10-19T15:10:49.457Z",
+  "generatedAt": "2026-10-20T01:41:09.921Z",
+  "lastCheckedAt": "2026-10-20T01:41:09.921Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 840,
+  "recordCount": 841,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/accc-releases-guidance-on-business-emissions-claims-to-consumers",
+      "title": "ACCC releases guidance on business emissions claims to consumers",
+      "category": "Advertising and Promotions, Buying and Selling Products and Services, Compliance and Enforcement",
+      "categories": [
+        "Advertising and Promotions",
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement"
+      ],
+      "summary": "Australian businesses making greenhouse gas emissions claims should use credible, science-based accounting standards, be transparent about the use of purchased credits, and, above all else, consider what average consumers would understand their claims to mean.",
+      "dateISO": "2026-10-20",
+      "dateText": "20 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-reauthorises-coordination-of-maintenance-for-lng-export-facilities-at-curtis-island",
