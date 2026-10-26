@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-10-20T01:41:09.921Z",
-  "lastCheckedAt": "2026-10-25T12:53:36.413Z",
+  "generatedAt": "2026-10-26T01:05:44.627Z",
+  "lastCheckedAt": "2026-10-26T01:05:44.627Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 841,
+  "recordCount": 843,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/perfection-fresh-admits-to-fixing-the-price-of-vegetables-sold-to-aldi",
+      "title": "Perfection Fresh admits to fixing the price of vegetables sold to ALDI",
+      "category": "Compliance and Enforcement",
+      "categories": [
+        "Compliance and Enforcement"
+      ],
+      "summary": "Perfection Fresh has admitted to engaging in cartel conduct and has agreed to jointly submit to the Court that Perfection Fresh should be ordered to pay a penalty of $12 million for nine contraventions and one attempted contravention and establish a competition law compliance program.",
+      "dateISO": "2026-10-26",
+      "dateText": "26 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-authorise-supermarket-cooperation-on-fuel-related-matters",
+      "title": "ACCC proposes to authorise supermarket cooperation on fuel-related matters",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "The ACCC proposes to authorise, subject to conditions, limited and targeted collaboration between Woolworths, Coles, Aldi, Metcash and other notified participants to prepare for potential fuel-related disruptions to the supply of retail products arising from the conflict in the Middle East.",
+      "dateISO": "2026-10-22",
+      "dateText": "22 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/accc-releases-guidance-on-business-emissions-claims-to-consumers",
