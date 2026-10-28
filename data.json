@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-27T09:39:16.422Z",
-  "lastCheckedAt": "2026-10-28T02:06:45.581Z",
+  "generatedAt": "2026-10-28T10:23:12.961Z",
+  "lastCheckedAt": "2026-10-28T10:23:12.961Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 843,
+  "recordCount": 844,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-grant-extended-authorisation-for-industry-collaboration-on-the-future-of-account-to-account-payment-infrastructure",
+      "title": "ACCC proposes to grant extended authorisation for industry collaboration on the future of account-to-account payment infrastructure",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "On 28 October 2026, the ACCC issued a draft determination proposing to revoke authorisation AA1000690 and grant authorisation AA1000739 in substitution to enable industry collaboration on the future of account-to-account payment infrastructure.",
+      "dateISO": "2026-10-28",
+      "dateText": "28 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/perfection-fresh-admits-to-fixing-the-price-of-vegetables-sold-to-aldi",
