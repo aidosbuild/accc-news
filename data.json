@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-28T10:23:12.961Z",
-  "lastCheckedAt": "2026-10-29T02:17:11.568Z",
+  "generatedAt": "2026-10-29T10:45:03.056Z",
+  "lastCheckedAt": "2026-10-29T10:45:03.056Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 844,
+  "recordCount": 845,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-grant-conditional-authorisation-to-southern-waste-solutions-for-organics-waste-facility",
+      "title": "ACCC proposes to grant conditional authorisation to Southern Waste Solutions for organics waste facility",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "The ACCC has issued a draft determination proposing to grant authorisation with conditions to Southern Waste Solutions to jointly procure, develop and operate a proposed advanced organics facility in Copping, Tasmania.",
+      "dateISO": "2026-10-29",
+      "dateText": "29 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-grant-extended-authorisation-for-industry-collaboration-on-the-future-of-account-to-account-payment-infrastructure",
