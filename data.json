@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-29T10:45:03.056Z",
-  "lastCheckedAt": "2026-10-29T14:51:20.257Z",
+  "generatedAt": "2026-10-30T02:30:29.825Z",
+  "lastCheckedAt": "2026-10-30T02:30:29.825Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 845,
+  "recordCount": 846,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/hm-pays-penalties-over-absent-and-inaccurate-fire-safety-warnings-on-kids-nightwear",
+      "title": "H&M pays penalties over absent and inaccurate fire safety warnings on kids' nightwear",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Stay Protected",
+      "categories": [
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement",
+        "Stay Protected"
+      ],
+      "summary": "Fashion retailer H&M Hennes & Mauritz Pty Ltd (H&M Australia) has paid $138,600 in penalties for allegedly selling more than 4,000 items of children’s clothing without complying with the required fire hazard warning label requirements in breach of the Australian Consumer Law.",
+      "dateISO": "2026-10-30",
+      "dateText": "30 October 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-grant-conditional-authorisation-to-southern-waste-solutions-for-organics-waste-facility",
