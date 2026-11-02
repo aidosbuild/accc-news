@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-30T02:30:29.825Z",
-  "lastCheckedAt": "2026-11-01T14:39:30.448Z",
+  "generatedAt": "2026-11-02T02:17:37.709Z",
+  "lastCheckedAt": "2026-11-02T02:17:37.709Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 846,
+  "recordCount": 847,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/sharetea-pays-penalties-for-alleged-breaches-of-the-franchising-code",
+      "title": "Sharetea pays penalties for alleged breaches of the Franchising Code",
+      "category": "Compliance and Enforcement",
+      "categories": [
+        "Compliance and Enforcement"
+      ],
+      "summary": "Bubble tea franchisor Sharetea Australia Pty Ltd has paid $39,600 in penalties after the ACCC issued two infringement notices for alleged contraventions of the Franchising Code of Conduct.",
+      "dateISO": "2026-11-02",
+      "dateText": "2 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/hm-pays-penalties-over-absent-and-inaccurate-fire-safety-warnings-on-kids-nightwear",
