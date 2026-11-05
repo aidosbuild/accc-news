@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-11-02T02:17:37.709Z",
-  "lastCheckedAt": "2026-11-04T15:53:45.368Z",
+  "generatedAt": "2026-11-05T03:23:29.951Z",
+  "lastCheckedAt": "2026-11-05T03:23:29.951Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 847,
+  "recordCount": 848,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/accc-issues-linfox-armaguard-with-interim-direction-to-support-ongoing-access-to-cash",
+      "title": "ACCC issues Linfox Armaguard with interim direction to support ongoing access to cash",
+      "category": "Banking and Finance, Regulated Infrastructure",
+      "categories": [
+        "Banking and Finance",
+        "Regulated Infrastructure"
+      ],
+      "summary": "The ACCC has today given Linfox Armaguard Pty Ltd (Armaguard) an interim direction that requires it to continue to supply cash in transit services and provide access to its facilities to its customers across Australia, and that sets the terms on which Armaguard provides these services.",
+      "dateISO": "2026-11-05",
+      "dateText": "5 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/sharetea-pays-penalties-for-alleged-breaches-of-the-franchising-code",
