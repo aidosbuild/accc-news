@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-11-05T03:23:29.951Z",
-  "lastCheckedAt": "2026-11-09T18:03:42.159Z",
+  "generatedAt": "2026-11-10T04:34:44.133Z",
+  "lastCheckedAt": "2026-11-10T04:34:44.133Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 848,
+  "recordCount": 849,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/accc-warns-against-misleading-%E2%80%98storewide%E2%80%99-or-%E2%80%98limited-time%E2%80%99-black-friday-sales-claims",
+      "title": "ACCC warns against misleading ‘storewide’ or ‘limited time’ Black Friday sales claims",
+      "category": "Advertising and Promotions, Buying and Selling Products and Services, Compliance and Enforcement",
+      "categories": [
+        "Advertising and Promotions",
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement"
+      ],
+      "summary": "The ACCC is continuing its crackdown on promotional and advertising practices that could mislead consumers, launching another sweep across multiple retail sectors during the Black Friday and Cyber Monday sales period.",
+      "dateISO": "2026-11-10",
+      "dateText": "10 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/accc-issues-linfox-armaguard-with-interim-direction-to-support-ongoing-access-to-cash",
