@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-11-10T04:34:44.133Z",
-  "lastCheckedAt": "2026-11-11T15:45:02.463Z",
+  "generatedAt": "2026-11-12T03:44:04.727Z",
+  "lastCheckedAt": "2026-11-12T03:44:04.727Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 849,
+  "recordCount": 850,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/cotton-on-pays-penalties-for-alleged-product-safety-reporting-breaches",
+      "title": "Cotton On pays penalties for alleged product safety reporting breaches",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement",
+      "categories": [
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement"
+      ],
+      "summary": "Cotton On Australia Pty Ltd (Cotton On) has paid penalties totalling $19,800 after the ACCC issued it with two infringement notices for failing to comply with mandatory product safety reporting requirements on two occasions.",
+      "dateISO": "2026-11-12",
+      "dateText": "12 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/accc-warns-against-misleading-%E2%80%98storewide%E2%80%99-or-%E2%80%98limited-time%E2%80%99-black-friday-sales-claims",
