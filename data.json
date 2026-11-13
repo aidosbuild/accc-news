@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-11-12T03:44:04.727Z",
-  "lastCheckedAt": "2026-11-12T16:29:35.551Z",
+  "generatedAt": "2026-11-13T03:21:01.014Z",
+  "lastCheckedAt": "2026-11-13T03:21:01.014Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 850,
+  "recordCount": 851,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/focus-products-for-excessive-pricing-check-announced",
+      "title": "Focus products for excessive pricing check announced",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Food and Groceries",
+      "categories": [
+        "Buying and Selling Products and Services",
+        "Compliance and Enforcement",
+        "Food and Groceries"
+      ],
+      "summary": "The ACCC will closely examine the retail margin of eight product groups, including milk, bread rolls and chocolate, as part of the ACCC’s work under the supermarkets excessive pricing legislation.",
+      "dateISO": "2026-11-13",
+      "dateText": "13 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/cotton-on-pays-penalties-for-alleged-product-safety-reporting-breaches",
