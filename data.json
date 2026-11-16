@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-11-13T03:21:01.014Z",
-  "lastCheckedAt": "2026-11-16T02:41:15.575Z",
+  "generatedAt": "2026-11-16T12:28:38.771Z",
+  "lastCheckedAt": "2026-11-16T12:28:38.771Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 851,
+  "recordCount": 852,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-interim-authorisation-for-payments-system-industry-resilience-initiative",
+      "title": "ACCC grants interim authorisation for payments system industry resilience initiative",
+      "category": "Competition and Exemptions, Banking and Finance",
+      "categories": [
+        "Competition and Exemptions",
+        "Banking and Finance"
+      ],
+      "summary": "The ACCC has granted interim authorisation to continue the work of the Industry Resilience Initiative and Industry Resilience Committee.",
+      "dateISO": "2026-11-16",
+      "dateText": "16 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/focus-products-for-excessive-pricing-check-announced",
