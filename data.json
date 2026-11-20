@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T12:28:38.771Z",
-  "lastCheckedAt": "2026-11-19T16:58:57.836Z",
+  "generatedAt": "2026-11-20T03:56:30.124Z",
+  "lastCheckedAt": "2026-11-20T03:56:30.124Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
   "recordCount": 852,
@@ -617,11 +617,10 @@
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/online-retailer-neptune-blanket-pays-penalties-for-allegedly-misleading-statements-about-consumer-guarantees",
       "title": "Online retailer Neptune Blanket pays penalties for allegedly misleading statements about consumer guarantees",
-      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Digital Platforms and Services",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement",
       "categories": [
         "Buying and Selling Products and Services",
-        "Compliance and Enforcement",
-        "Digital Platforms and Services"
+        "Compliance and Enforcement"
       ],
       "summary": "Online retailer Dysck Pty Ltd, trading as Neptune Blanket, has paid $59,400 in penalties after the ACCC issued it with three infringement notices for making allegedly misleading statements to two consumers about their rights, and not including mandatory wording in its warranty against defects.",
       "dateISO": "2026-09-09",
@@ -1764,12 +1763,11 @@
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/online-retailer-hsk-united-pays-penalties-for-allegedly-misleading-pricing-and-returns-policy",
       "title": "Online retailer HSK United pays penalties for allegedly misleading pricing and returns policy",
-      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Pricing, Digital Platforms and Services",
+      "category": "Buying and Selling Products and Services, Compliance and Enforcement, Pricing",
       "categories": [
         "Buying and Selling Products and Services",
         "Compliance and Enforcement",
-        "Pricing",
-        "Digital Platforms and Services"
+        "Pricing"
       ],
       "summary": "HSK United Pty Ltd, which operates the websites Pain Free Aussies and Modern Aussies, has paid $79,200 in penalties after the ACCC issued it with four infringement notices for alleged breaches of the Australian Consumer Law.",
       "dateISO": "2026-06-26",
@@ -2654,10 +2652,11 @@
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/continued-action-critical-to-combat-fraud-as-annual-scam-losses-exceed-2-billion",
       "title": "Continued action critical to combat fraud as annual scam losses exceed $2 billion",
-      "category": "Stay Protected, Scams",
+      "category": "Stay Protected, Scams, Digital Platforms and Services",
       "categories": [
         "Stay Protected",
-        "Scams"
+        "Scams",
+        "Digital Platforms and Services"
       ],
       "summary": "The National Anti-Scam Centre’s latest Targeting Scams Report highlights the complex, adaptive, and “wicked” nature of scams, and the critical role of collaboration in disrupting criminal networks, as Australians reported more than $2 billion in financial losses.",
       "dateISO": "2026-03-30",
@@ -4875,10 +4874,11 @@
       "type": "Media Release",
       "permalink": "https://www.accc.gov.au/media-release/consumers-warned-about-ghost-stores-imitating-australian-businesses",
       "title": "Consumers warned about 'ghost stores' imitating Australian businesses",
-      "category": "Advertising and Promotions, Buying and Selling Products and Services",
+      "category": "Advertising and Promotions, Buying and Selling Products and Services, Digital Platforms and Services",
       "categories": [
         "Advertising and Promotions",
-        "Buying and Selling Products and Services"
+        "Buying and Selling Products and Services",
+        "Digital Platforms and Services"
       ],
       "summary": "The ACCC is warning consumers about the operators of four websites allegedly misrepresenting themselves as local businesses, also known as 'ghost stores'.",
       "dateISO": "2025-07-03",
