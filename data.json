@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-11-20T03:56:30.124Z",
-  "lastCheckedAt": "2026-11-23T19:42:54.128Z",
+  "generatedAt": "2026-11-24T06:54:17.889Z",
+  "lastCheckedAt": "2026-11-24T06:54:17.889Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 852,
+  "recordCount": 853,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-authorise-banks-arrangements-for-joint-venture-for-commercial-cash-distribution",
+      "title": "ACCC proposes to authorise banks' arrangements for joint venture for commercial cash distribution",
+      "category": "Competition and Exemptions, Banking and Finance",
+      "categories": [
+        "Competition and Exemptions",
+        "Banking and Finance"
+      ],
+      "summary": "The ACCC has issued a draft determination proposing to grant authorisation to the major banks to prepare a framework to establish a joint venture for commercial cash distribution.",
+      "dateISO": "2026-11-24",
+      "dateText": "24 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-interim-authorisation-for-payments-system-industry-resilience-initiative",
