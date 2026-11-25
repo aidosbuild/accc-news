@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-24T06:54:17.889Z",
-  "lastCheckedAt": "2026-11-24T19:16:00.234Z",
+  "generatedAt": "2026-11-25T05:21:12.490Z",
+  "lastCheckedAt": "2026-11-25T05:21:12.490Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 853,
+  "recordCount": 854,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-authorisation-for-advanced-organics-waste-facility-in-southern-tasmania",
+      "title": "ACCC grants authorisation for advanced organics waste facility in southern Tasmania",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "The ACCC has granted authorisation, with conditions, for the joint procurement, development, and operation of a proposed advanced organics facility in Copping, Tasmania.",
+      "dateISO": "2026-11-24",
+      "dateText": "24 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-proposes-to-authorise-banks-arrangements-for-joint-venture-for-commercial-cash-distribution",
