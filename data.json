@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-11-25T05:21:12.490Z",
-  "lastCheckedAt": "2026-11-25T18:19:43.312Z",
+  "generatedAt": "2026-11-26T13:35:41.357Z",
+  "lastCheckedAt": "2026-11-26T13:35:41.357Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 854,
+  "recordCount": 858,
   "records": [
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-extended-authorisation-for-industry-collaboration-on-the-future-of-account-to-account-payment-infrastructure",
+      "title": "ACCC grants extended authorisation for industry collaboration on the future of account-to-account payment infrastructure",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "On 25 November 2026, the ACCC issued a final determination revoking authorisation AA1000690 and granting authorisation AA1000739 in substitution.",
+      "dateISO": "2026-11-26",
+      "dateText": "26 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/media-statement-on-four-corners-food-claims",
+      "title": "Media statement on Four Corners' food claims",
+      "category": "Advertising and Promotions, Compliance and Enforcement, Food and Groceries",
+      "categories": [
+        "Advertising and Promotions",
+        "Compliance and Enforcement",
+        "Food and Groceries"
+      ],
+      "summary": "The ACCC has completed inquiries into allegations of misleading claims in relation to food products, which were raised in a recent Four Corners program.",
+      "dateISO": "2026-11-26",
+      "dateText": "26 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/warning-about-third-party-company-annual-review-and-business-name-renewal-provider",
+      "title": "Warning about third-party company annual review and business name renewal provider",
+      "category": "Compliance and Enforcement",
+      "categories": [
+        "Compliance and Enforcement"
+      ],
+      "summary": "The ACCC is warning business owners about Registration Pty Ltd, a company which has been sending letters to businesses that appear to be invoices for company annual review fees and business name renewal fees.",
+      "dateISO": "2026-11-26",
+      "dateText": "26 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
+    {
+      "type": "Update",
+      "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-conditional-authorisation-to-catholic-hospitals-for-collective-bargaining-and-boycott",
+      "title": "ACCC grants conditional authorisation to Catholic hospitals for collective bargaining and boycott",
+      "category": "Competition and Exemptions",
+      "categories": [
+        "Competition and Exemptions"
+      ],
+      "summary": "The ACCC has granted conditional authorisation to St John of God Health Care, St Vincent’s Health Australia, Cabrini Health, Little Company of Mary Health Care and PFP Alliance for collective bargaining and boycott of suppliers.",
+      "dateISO": "2026-11-25",
+      "dateText": "25 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-authorisation-for-advanced-organics-waste-facility-in-southern-tasmania",
