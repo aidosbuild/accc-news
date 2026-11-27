@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-26T13:35:41.357Z",
-  "lastCheckedAt": "2026-11-26T18:01:08.113Z",
+  "generatedAt": "2026-11-27T13:31:50.713Z",
+  "lastCheckedAt": "2026-11-27T13:31:50.713Z",
   "sourceUrl": "https://www.accc.gov.au/news-centre",
   "startYear": 2023,
-  "recordCount": 858,
+  "recordCount": 859,
   "records": [
+    {
+      "type": "Media Release",
+      "permalink": "https://www.accc.gov.au/media-release/think-and-check-before-letting-ai-shop-on-your-behalf",
+      "title": "Think and check before letting AI shop on your behalf",
+      "category": "Artificial Intelligence",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "summary": "Consumers are urged to check answers against reliable sources and protect their personal information when using artificial intelligence (AI) tools including AI assistants to shop for deals in the Black Friday sales and beyond.",
+      "dateISO": "2026-11-27",
+      "dateText": "27 November 2026",
+      "year": 2026,
+      "overridden": false,
+      "overriddenFields": [],
+      "notes": ""
+    },
     {
       "type": "Update",
       "permalink": "https://www.accc.gov.au/about-us/news/media-updates/accc-grants-extended-authorisation-for-industry-collaboration-on-the-future-of-account-to-account-payment-infrastructure",
